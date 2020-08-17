@@ -1,0 +1,299 @@
+{
+    "created_at": "Thu Aug 13 21:07:56 +0000 2015",
+    "id": 631935238415978496,
+    "id_str": "631935238415978496",
+    "text": "RT @gamespot: Fallout Shelter available now on Android. http:\/\/t.co\/sVJOJcDHl9 http:\/\/t.co\/AEU1YtR3RR",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 705418987,
+        "id_str": "705418987",
+        "name": "Folgado Snow",
+        "screen_name": "Thur_T",
+        "location": "Franca com c, Kattegat",
+        "url": "http:\/\/shes-so-nice.tumblr.com",
+        "description": "V\u00e1 se foder.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 260,
+        "friends_count": 1406,
+        "listed_count": 0,
+        "favourites_count": 267,
+        "statuses_count": 12914,
+        "created_at": "Thu Jul 19 17:02:27 +0000 2012",
+        "utc_offset": -10800,
+        "time_zone": "Brasilia",
+        "geo_enabled": true,
+        "lang": "pt",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "E4EFF5",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000095584284\/76252fd685cb9a3692df402aaddcf70e.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000095584284\/76252fd685cb9a3692df402aaddcf70e.jpeg",
+        "profile_background_tile": true,
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/597125943514247168\/v0C1iH84_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/597125943514247168\/v0C1iH84_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/705418987\/1423407266",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Aug 13 15:10:32 +0000 2015",
+        "id": 631845297858154496,
+        "id_str": "631845297858154496",
+        "text": "Fallout Shelter available now on Android. http:\/\/t.co\/sVJOJcDHl9 http:\/\/t.co\/AEU1YtR3RR",
+        "source": "\u003ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003eSocialFlow\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 7157132,
+            "id_str": "7157132",
+            "name": "GameSpot",
+            "screen_name": "gamespot",
+            "location": "Internet - US - UK - AU - Asia",
+            "url": "http:\/\/www.GameSpot.com",
+            "description": "The official GameSpot account. Follow us for the latest updates on video game reviews, news, live streams, giveaways and more!",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1677580,
+            "friends_count": 453,
+            "listed_count": 12517,
+            "favourites_count": 567,
+            "statuses_count": 46413,
+            "created_at": "Fri Jun 29 17:54:14 +0000 2007",
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/615584998934994945\/BcoK8vEV_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/615584998934994945\/BcoK8vEV_normal.png",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/7157132\/1435077394",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 97,
+        "favorite_count": 115,
+        "entities": {
+            "hashtags": [],
+            "trends": [],
+            "urls": [{
+                "url": "http:\/\/t.co\/sVJOJcDHl9",
+                "expanded_url": "http:\/\/l.gamespot.com\/1EoWKA8",
+                "display_url": "l.gamespot.com\/1EoWKA8",
+                "indices": [42, 64]
+            }],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [{
+                "id": 631845297342291968,
+                "id_str": "631845297342291968",
+                "indices": [65, 87],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+                "url": "http:\/\/t.co\/AEU1YtR3RR",
+                "display_url": "pic.twitter.com\/AEU1YtR3RR",
+                "expanded_url": "http:\/\/twitter.com\/gamespot\/status\/631845297858154496\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 211,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 636,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "extended_entities": {
+            "media": [{
+                "id": 631845297342291968,
+                "id_str": "631845297342291968",
+                "indices": [65, 87],
+                "media_url": "http:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+                "media_url_https": "https:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+                "url": "http:\/\/t.co\/AEU1YtR3RR",
+                "display_url": "pic.twitter.com\/AEU1YtR3RR",
+                "expanded_url": "http:\/\/twitter.com\/gamespot\/status\/631845297858154496\/photo\/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 211,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 636,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "trends": [],
+        "urls": [{
+            "url": "http:\/\/t.co\/sVJOJcDHl9",
+            "expanded_url": "http:\/\/l.gamespot.com\/1EoWKA8",
+            "display_url": "l.gamespot.com\/1EoWKA8",
+            "indices": [56, 78]
+        }],
+        "user_mentions": [{
+            "screen_name": "gamespot",
+            "name": "GameSpot",
+            "id": 7157132,
+            "id_str": "7157132",
+            "indices": [3, 12]
+        }],
+        "symbols": [],
+        "media": [{
+            "id": 631845297342291968,
+            "id_str": "631845297342291968",
+            "indices": [79, 101],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+            "url": "http:\/\/t.co\/AEU1YtR3RR",
+            "display_url": "pic.twitter.com\/AEU1YtR3RR",
+            "expanded_url": "http:\/\/twitter.com\/gamespot\/status\/631845297858154496\/photo\/1",
+            "type": "photo",
+            "sizes": {
+                "medium": {
+                    "w": 600,
+                    "h": 372,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 340,
+                    "h": 211,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 636,
+                    "resize": "fit"
+                }
+            },
+            "source_status_id": 631845297858154496,
+            "source_status_id_str": "631845297858154496"
+        }]
+    },
+    "extended_entities": {
+        "media": [{
+            "id": 631845297342291968,
+            "id_str": "631845297342291968",
+            "indices": [79, 101],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CMTD80UWoAAAGuU.jpg",
+            "url": "http:\/\/t.co\/AEU1YtR3RR",
+            "display_url": "pic.twitter.com\/AEU1YtR3RR",
+            "expanded_url": "http:\/\/twitter.com\/gamespot\/status\/631845297858154496\/photo\/1",
+            "type": "photo",
+            "sizes": {
+                "medium": {
+                    "w": 600,
+                    "h": 372,
+                    "resize": "fit"
+                },
+                "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                },
+                "small": {
+                    "w": 340,
+                    "h": 211,
+                    "resize": "fit"
+                },
+                "large": {
+                    "w": 1024,
+                    "h": 636,
+                    "resize": "fit"
+                }
+            },
+            "source_status_id": 631845297858154496,
+            "source_status_id_str": "631845297858154496"
+        }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1439500076284"
+}
