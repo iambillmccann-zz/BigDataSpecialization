@@ -3,7 +3,7 @@
 import sys
 import re
 import time
-import matplotlib.pyplot as plt
+from matplotlib import pyplot
 import matplotlib.dates as mdate
 from pytz import timezone
 import socket
@@ -14,14 +14,14 @@ maxVal = 1
 x = []
 y = []
 
-#fig, ax = plt.subplots()
-fig = plt.figure()
+#fig, ax = pyplot.subplots()
+fig = pyplot.figure()
 ax = fig.add_subplot(111)
 ax.set_autoscaley_on(False)
 ax.set_ylim(minVal,maxVal)
 
-plt.xlabel('time')
-plt.ylabel(sys.argv[1])
+pyplot.xlabel('time')
+pyplot.ylabel(sys.argv[1])
 
 date_formatter = mdate.DateFormatter('%H:%M.%S', tz=timezone('US/Pacific'))
 
@@ -58,5 +58,5 @@ for i in range(0, 60):
             ax.plot_date(secs, y, fmt='.-', color='blue', markersize=10)
             ax.xaxis.set_major_formatter(date_formatter)
             fig.autofmt_xdate()
-            plt.draw()
+            pyplot.draw()
 s.close()
